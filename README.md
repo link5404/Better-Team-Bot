@@ -7,9 +7,13 @@ Their daily and weekly tasks. It is meant to streamline the process of asking fo
 In a project.
 
 Jordan Atanassov jordanatanassov
+
 Jake Lehoullier jakelehou
+
 Omer Abbas omer18
+
 Reagan Gary rbgary
+
 Sebastian Bukvic sebastianbukvic
 
 
